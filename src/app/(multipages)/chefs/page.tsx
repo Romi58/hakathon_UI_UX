@@ -42,6 +42,18 @@ function page() {
           <div>
             <Image src={'/Chef Card 8.png'} alt='' height={446} width={312}/>
           </div>
+         <div>
+         <Image src={'/Chef Card 12.png'} alt='' height={446} width={312}/>
+         </div>
+         <div>
+         <Image src={'/Chef Card 11.png'} alt='' height={446} width={312}/>
+         </div>
+         <div>
+         <Image src={'/Chef Card 10.png'} alt='' height={446} width={312}/>
+         </div>
+         <div>
+         <Image src={'/Chef Card 9.png'} alt='' height={446} width={312}/>
+         </div>
         </div>
       </div>
     </div>

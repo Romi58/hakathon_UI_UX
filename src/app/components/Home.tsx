@@ -56,7 +56,7 @@ export default function Home() {
                   </HoverCard>
                 </li>
                 <li><Link href="#" className="hover:text-primYellow">About</Link></li>
-                <li><Link href="#" className="hover:text-primYellow">Shop</Link></li>
+                <li><Link href={"./shop" }className="hover:text-primYellow">Shop</Link></li>
                 <li><Link href="#" className="hover:text-primYellow">Contact</Link></li>
               </ul>
               <div className="flex items-center gap-2 mt-4 sm:mt-0">
